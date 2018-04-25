@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/find-the-missing-letter
+
 function findMissingLetter (array) {
   const allButLast = array.slice(0, -1);
 

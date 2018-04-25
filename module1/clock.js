@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/clocky-mc-clock-face
+
 function whatTimeIsIt (angle) {
   // if 360 degrees is 12 hours, each hour is 30 degrees (360 / 12 = 30)
   var decimalHours = angle / 30;

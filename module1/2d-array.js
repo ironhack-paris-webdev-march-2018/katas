@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/sort-a-2d-array
+
 function namesSorter (departmentsArray) {
   var arr =
     departmentsArray.reduce(function (newArr, department) {

@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words
+
 function anagramCounter (wordsArray) {
   var anagramCount =
     wordsArray.reduce(function (count, thisWord, index) {

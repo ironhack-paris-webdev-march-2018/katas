@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/tgi-friday
+
 function lastDayIsFriday(initialYear, endYear) {
   if (endYear === undefined) {
     endYear = initialYear;

@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/persistent-bugger
+
 function persistence (num) {
   let strNum = String(num);
   let persistence = 0;
