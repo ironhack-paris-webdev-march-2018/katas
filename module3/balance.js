@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/all-that-is-open-must-be-closed-dot-dot-dot
+
 function isBalanced (str, pairs) {
   const openCharacters = [];
 

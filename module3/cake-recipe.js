@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/pete-the-baker/
+
 function cakes (recipe, available) {
   // How many cakes could we make with each ingredient?
   const capacities =

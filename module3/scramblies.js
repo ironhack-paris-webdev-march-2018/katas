@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/scramblies/
+
 function scramble (str1, str2) {
   // These objects will count all characters in each string
   // For a string like "ababca" we will get { a: 3, b: 2, c: 1 }

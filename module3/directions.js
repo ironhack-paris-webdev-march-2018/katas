@@ -1,3 +1,6 @@
+// Kata URL:
+// https://www.codewars.com/kata/directions-reduction/
+
 function dirReduc (arr) {
   const simpleDirections = [];
 
